@@ -1,0 +1,7 @@
+mode: atomic
+github.com/1shubham7/codecov-demo/cal.go:7.33,9.2 1 1
+github.com/1shubham7/codecov-demo/cal.go:11.33,13.2 1 0
+github.com/1shubham7/codecov-demo/cal.go:15.33,17.2 1 0
+github.com/1shubham7/codecov-demo/cal.go:19.33,20.14 1 0
+github.com/1shubham7/codecov-demo/cal.go:23.2,23.19 1 0
+github.com/1shubham7/codecov-demo/cal.go:20.14,22.3 1 0
